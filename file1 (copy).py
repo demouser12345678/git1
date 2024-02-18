@@ -5,3 +5,4 @@ class DemoClass:
 demoobject=DemoClass()
 demoobject.working()
     
+demoobject.working()
