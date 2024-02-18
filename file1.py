@@ -4,4 +4,5 @@ class DemoClass:
         print(30)
 demoobject=DemoClass()
 demoobject.working()
+demoobject.working()
     
